@@ -1,17 +1,36 @@
-# mob1
+# Mob Session - 1
 
-A new Flutter project.
+A simple Flutter app designed for a **mob programming session**.
 
-## Getting Started
+The app currently shows a Profile screen with:
+- A circular person icon (`Icons.person`)
+- Centered user details inside a card (First name / Last name)
+- A non - functional `Edit Profile` button
 
-This project is a starting point for a Flutter application.
+## 🚀 Run the app
 
-A few resources to get you started if this is your first Flutter project:
+From the project root, run:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```sh
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure you have an emulator or device running before executing the command.
+
+### Code layout
+`lib/main.dart` → App entry point
+`lib/screens/profile_screen.dart` → Profile screen UI
+
+### How to implement the mob tasks
+
+Follow the tasks in order and complete them step-by-step:
+
+- Task1.md
+- Task2.md
+- Task3.md
+
+⚠️ Read each task carefully before starting.
+⚠️ Do not skip steps — each task builds on the previous one.
+⚠️ Focus on understanding the concepts while implementing.
+
+#### Thank you!🙏
